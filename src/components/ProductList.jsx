@@ -15,13 +15,13 @@ const products = [
     rating: 2
   },
   {
-    image: 'img5.jpg',
+    image: 'img8.jpg',
     name: 'Mac Lipstick',
     price: 'N7000',
     rating: 3
   },
   {
-    image: 'img6.jpg',
+    image: 'img10.jpg',
     name: 'Mac Lipstick',
     price: 'N2000',
     rating: 4
