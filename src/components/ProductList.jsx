@@ -3,33 +3,33 @@ import ProductCard from './ProductCard';
 
 const products = [
   {
-    image: 'path_to_image1',
+    image: './public/img3.jpg',
     name: 'Mac Lipstick',
-    price: 'N5000',
+    price: 'N6000',
     rating: 0
   },
   {
-    image: 'path_to_image2',
+    image: './public/img4.jpg',
     name: 'Mac Lipstick',
     price: 'N5000',
     rating: 2
   },
   {
-    image: 'path_to_image3',
+    image: './public/img5.jpg',
     name: 'Mac Lipstick',
-    price: 'N5000',
+    price: 'N7000',
     rating: 3
   },
   {
-    image: 'path_to_image4',
+    image: './public/img6.jpg',
     name: 'Mac Lipstick',
-    price: 'N5000',
+    price: 'N2000',
     rating: 4
   },
   {
     image: 'path_to_image5',
     name: 'Mac Lipstick',
-    price: 'N5000',
+    price: 'N15000',
     rating: 5
   }
 ];
