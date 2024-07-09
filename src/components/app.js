@@ -8,7 +8,13 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>MONOMART</h1>
+        <h3>MONOMART</h3>
+        <div>
+          <a href=''></a>
+          <a href=''></a>
+          <a href=''></a>
+          <a href=''></a>
+        </div>
       </header>
       <FilterBar />
       <ProductList />
