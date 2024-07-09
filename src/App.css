@@ -38,6 +38,7 @@
   background-color: #fff;
   border: 1px solid #ccc;
   border-radius: 10px;
+  border-image:fill 0 linear-gradient(#0001, #000);
   margin: 10px;
   padding: 20px;
   text-align: left;
@@ -65,7 +66,7 @@
 }
 
 footer {
-  background:url(../public/img5.jpg);
+  background:url(../public/img10.jpg);
   background-position: cover;
   color: white;
   padding: 20px;
